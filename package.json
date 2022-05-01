@@ -1,0 +1,25 @@
+{
+  "name": "quirkiestation",
+  "version": "1.0.0",
+  "description": "hub for everything quirkies",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JClutch/QuirkieStation.git"
+  },
+  "keywords": [
+    "Quirkies"
+  ],
+  "author": "JClutch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JClutch/QuirkieStation/issues"
+  },
+  "homepage": "https://github.com/JClutch/QuirkieStation#readme",
+  "dependencies": {
+    "node": "^17.7.2"
+  }
+}
